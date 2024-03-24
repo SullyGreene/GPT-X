@@ -9,13 +9,13 @@ from src.customize_model import show_customize_page
 from src.train_model import show_train_page
 from src.personalize_model import show_personalize_page
 from src.model_testing import show_model_testing_page
-from src.GPT_X import show_GPT_X_page
+from src.gpt_x import show_gpt_x_page
 
 # 🏗️ Mapping of page names to their respective functions ✨
 PAGES = {
     "🏠 HomePage": show_homepage,
     "📊 Dashboard": show_dashboard,
-    "🤖 GPT-X": show_GPT_X_page,
+    "🤖 GPT-X": show_gpt_x_page,
     "🎨 Customize Model": show_customize_page,
     "🏋️‍♂️ Train Model": show_train_page,
     "🎭 Personalize Model": show_personalize_page,
