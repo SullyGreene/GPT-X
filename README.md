@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
+  <img src="https://github.com/SullyGreene/GPT-X/blob/main/src/img/gptx.png?raw=true" alt="Logo" width="500" style="max-width:100%;height:auto;">
+=======
   <img src="https://github.com/SullyGreene/GPT-X/blob/main/src/img/gptx.png?raw=true" alt="Logo" width="150" height="150">
+>>>>>>> 555b6920ede9de5dfeb6cc1180090b4766156f89
 </p>
 
 <h1 align="center">GPT-X Starship Interface</h1>
