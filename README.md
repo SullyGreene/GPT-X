@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-url-here.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/SullyGreene/GPT-X/blob/main/src/img/gptx.png?raw=true" alt="Logo" width="150" height="150">
 </p>
 
 <h1 align="center">GPT-X Starship Interface</h1>
